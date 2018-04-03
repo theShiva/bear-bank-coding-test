@@ -34,12 +34,3 @@ The following is completely optional, and you can do some, all or none of these.
 3 Document the main classes using XML code comments
 4 Write inline code comments to briefly describe the design patterns you are using.
 
-## Media
-
-### Source data - bank-locations.csv
-
-<img src="/Docs/Media/bank-locations-screenshot.png" alt="free bank locations csv file"/>
-
-### Sample API JSON output for `/api/locations/` endpoint
-
-<img src="/Docs/Media/bank-locations-json.jpg" alt="free bank locations json file"/>
