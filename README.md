@@ -12,9 +12,13 @@ Create a simple REST-ful API to perform CRUD operations on a list of Bank Locati
 2. Design the various API endpoint keeping REST design priciples in mind. Ex: A DELETE on a location would use the DELETE Http VERB
 
 ## Bonus:
+
+The following is completely optional, and you can do some, all or none of these.
+
 1. Create API documentation using Swagger
-2. Document the main classes using XML code comments
-3. Write inline code comments to briefly describe the design patterns you are using.
+2. Populate `latitude` and `longitude` after the data import, using a geocoding api like Google Maps API.
+3 Document the main classes using XML code comments
+4 Write inline code comments to briefly describe the design patterns you are using.
 
 ## Media
 
