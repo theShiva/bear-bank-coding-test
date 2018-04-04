@@ -68,6 +68,7 @@ The following is completely optional, and you can do some, all or none of these.
 
 1. Create API documentation using Swagger
 2. Populate `latitude` and `longitude` after the data import, using a geocoding api like Google Maps API.
-3 Document the main classes using XML code comments
-4 Write inline code comments to briefly describe the design patterns you are using.
+3. Document the main classes using XML code comments
+4. Write inline code comments to briefly describe the design patterns you are using.
+
 
