@@ -4,7 +4,7 @@
 
 Create a simple REST-ful API to perform some basic operations (see #2) on a list of Bank Locations, that are stored in a .CSV file.
 
-1. The `bank-locations.csv` data file in the `\Data` folder is your data source of Bank locations. Import that into either a local SQL database or store it in-memory (ex HTTP Cache)
+1. The `bank-locations.csv` data file in the `\Data` folder is your data source of Bank locations. Import that into either a local SQL database or store it in-memory (ex HTTP Cache). The current user can be used to populate the `CreatedBy` field in the json (see #2).
 
 <img src="/Docs/Media/bank-locations-screenshot.png" alt="free bank locations csv file"/>
 
