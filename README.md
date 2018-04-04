@@ -54,13 +54,12 @@ Create a simple REST-ful API to perform some basic operations (see #2) on a list
 
 ````
 
-
 4. Create your solution using ASP.Net Web API and upload your solution to a public github repository and send the recruiter the link to it so we can review your solution.
 
 ## Notes:
 1. Not all the rows in `bank-locations.csv` are valid locations. You should only import and expose those rows / records that have an address, city, state and zipcode.
-2. Design the various API endpoint keeping REST design priciples in mind. Ex: A DELETE on a location would use the DELETE Http VERB
-3. You can create the API using either 
+2. Design the various API endpoint keeping REST design priciples in mind. Ex: The 'delete a location' endpoint would use the DELETE HTTP  verb.
+3. You may use any ORM, or simply cache the CSV data in memory, or something else. Also use any design patterns you see fit.
 
 ## Bonus:
 
